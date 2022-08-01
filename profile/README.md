@@ -82,6 +82,7 @@
 ![이벤트](https://github.com/HanghaeE5/.github/blob/main/image/Untitled%20(5).png)
 
 ## 🔨 아키텍처 / 기술 스택
+### 아키텍처
 ![Architecture](https://github.com/HanghaeE5/.github/blob/main/image/architecture.jpg)
 
 ### 기술 스택
