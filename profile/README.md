@@ -84,6 +84,17 @@
 ## 🔨 아키텍처 / 기술 스택
 ![Architecture](https://github.com/HanghaeE5/.github/blob/main/image/architecture.jpg)
 
+<details>
+<summary>Front-End</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>Back-End</summary>
+<div markdown="1">
+
 | 사용 기술 | 기술 선정 이유 및 설명 |
 | --- | --- |
 | spring-security | 인증 및 리소스 권한을 직접 소스로 만들게 되면 많은시간이 소요되기 때문에 사용 |
@@ -99,7 +110,5 @@
 | Redis | • Redis 의 Pub/Sub 기능을 활용해 서로 다른 서버에서도 Stomp 프로토콜 활용이 가능</br>• 메인 서버가 다운되더라도 채팅 메시지를 보존 가능 |
 | Github Action | • 코드를 배포해야하는 상황이 빈번히 발생하고 배포 시에 잠깐 서버가 중단되는 상황을 개선하기 위해 고려함.</br>• Jenkins와 Github Action 2가지를 고려했지만 Jenkins 를 사용하려면 도커에 설치해야 함. 더불어, 여러 절차가 필요</br>• Github Action 은 설치 없이 간단하게 적용 할 수 있었기에 같은 기능을 한다면 간단하게 적용할 수 있는 Github Action을 선택함. |
 
-## 트러블슈팅
-### Front-End
-
-### Back-End
+</div>
+</details>
