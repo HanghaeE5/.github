@@ -19,7 +19,7 @@
 |조윤경|Front-End|||
 |김지환|Back-End|https://github.com/Kimjipang|[리더]</br>1. 커뮤니티 CRUD</br>2. To Do 정렬 코드 변경 </br>3. 알림 기능(간단한 알림 테스트 O , 프로젝트에 구현은 X)|
 |이건우|Back-End|https://github.com/geonoo|1. CICD / 무중단배포</br>2. 로그인(일반, 소셜)</br>3. 이벤트 기능(스케줄러, 랜덤뽑기)</br>4. 커뮤니티 검색|
-|양희수|Back-End|https://github.com/hee1su123|1. 웹소켓 채팅</br>2. Redis pub/sub, in-memory 캐싱</br>3. 친구추가 기능</br>4. To-do 리스트</br>5. 캐릭터 및 아이템 기능|
+|양희수|Back-End|https://github.com/hee1su123|1. 채팅(WebSocket, Redis)</br>2. 친구추가 기능</br>3. To-do 리스트</br>4. 캐릭터 및 아이템 기능|
 |박혜진|DESIGNER||1. 소개페이지</br>2. 투두리스트페이지</br>3. 커뮤니티 페이지</br>4. 친구목록페이지</br>5. 채팅페이지</br>6. 캐릭터선택페이지</br>7.이벤트 배너 및 상세페이지|
 |최민영|DESIGNER|||
 
