@@ -5,7 +5,7 @@
 [Front-End Repo 링크](https://github.com/HanghaeE5/Front-end)  
 [Back-End Repo 링크](https://github.com/HanghaeE5/Back-end)  
 [Notion 링크](https://www.notion.so/99-E-5-35d0ee3dd2054d5aa4e2c2515c1f4f45)  
-[소개 영상](URL)  
+[소개 영상](https://youtu.be/OnX8QW4dRqw)  
 
 ## 🎬 프로젝트 소개
 -  우리는 하루에도 수 많은 일들을 합니다. 할 일을 쉽게 기록하고 확인할 수 있는 것이 있다면 얼마나 좋을까요? 우리의 서비스 TODOWITH 은 쉽고 재미있게 TODO 를 수행할 수 있도록 도와주는 여러분들의 친구입니다.
