@@ -15,7 +15,7 @@
 ## 🙏 팀원
 |이름|포지션|깃허브 or 블로그|담당|
 |:---:|:---:|:---:|:---|
-|심아영|Front-End|https://github.com/ccimayoung|[부리더]</br>1. CICD/무중단배포 </br>2. 로그인/회원가입/온보딩 </br>3. 메인페이지 </br>4. 채팅 </br>5. 친구목록/친구페이지 </br>6. 알림(개발중)|
+|심아영|Front-End|https://github.com/ccimayoung|[부리더]</br>1. CICD/무중단배포 </br>2. 로그인/회원가입/온보딩 </br>3. 메인페이지 </br>4. 채팅 </br>5. 친구목록/친구페이지 </br>6. 알림 7.인터셉터 로직|
 |조윤경|Front-End||1. 투두 페이지</br>2. 커뮤니티 페이지</br>3. 이벤트페이지</br>4. 공통컴포넌트|
 |김지환|Back-End|https://github.com/Kimjipang|[리더]</br>1. 커뮤니티 CRUD</br>2. To Do 정렬 코드 변경 </br>3. 알림 기능(간단한 알림 테스트 O , 프로젝트에 구현은 X)|
 |이건우|Back-End|https://github.com/geonoo|1. CICD / 무중단배포</br>2. 로그인(일반, 소셜)</br>3. 이벤트 기능(스케줄러, 랜덤뽑기)</br>4. 커뮤니티 검색|
