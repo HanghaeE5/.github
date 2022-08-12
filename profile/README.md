@@ -1,4 +1,8 @@
 # TODO WITH
+<img src = "https://user-images.githubusercontent.com/105165279/184396839-eae469f4-392b-4421-bb5c-1db77790bd40.png" width="600px">
+항해99 7기 39개 팀 중 1위 수상😎
+<br/><br/>
+
 
 ## 📌 링크
 [TodoWith 링크](https://todowith.co.kr)  
